@@ -1,3 +1,5 @@
+import Foundation
+
 // Desafío 1
 
 struct Direccion {

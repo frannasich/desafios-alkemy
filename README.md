@@ -1,3 +1,3 @@
-#  Swift: Desafios para Alkemy
+#  Swift: Desafíos para Alkemy
 
 En este repositorio se pueden ver los distintos ejercicios y desafíos realizados en la Preaceleración de Swift en Alkemy

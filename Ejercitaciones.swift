@@ -226,3 +226,24 @@ import Foundation
 // }
 
 // darNoticia(imprimir, nota:5)
+
+
+// Ejercicio clase
+
+//class Person {
+  //let nombre: String
+  //let apellido: String
+  //var edad: Int
+
+  //init(nombre: String, apellido: String, edad: Int){
+  //self.nombre = nombre
+  //self.apellido = apellido
+  //self.edad = edad
+ // }
+  //func presentarse(){
+//print("Nombre: \(nombre), Apellido: \(apellido), Edad: \(edad)")
+ // }
+//}
+ 
+//let person1 = Person(nombre: "Fran", apellido: "Nasich", edad: 19)
+ //person1.presentarse()
